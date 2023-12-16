@@ -1,0 +1,138 @@
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.pdb
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.csprojAssemblyReference.cache
+C:\Users\madi_\source\repos\AppLenguas\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.csprojAssemblyReference.cache
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.pdb
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+C:\Users\madi_\source\repos\AppLenguas\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\danie\Desktop\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.pdb
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\danie\Documents\Escuela\PROYECTO\App\AppLenguas\obj\Debug\AppLenguas.pdb
+D:\Innovatec\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+D:\Innovatec\App\AppLenguas\bin\Debug\AppLenguas.exe
+D:\Innovatec\App\AppLenguas\bin\Debug\AppLenguas.pdb
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.frmMemorama.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.exe
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.pdb
+D:\Innovatec\App\AppLenguas\obj\Debug\AppLenguas.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Luis Alberto\Proyectos\Nolte\App\AppLenguas\obj\Debug\AppLenguas.csprojAssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Luis Alberto\Proyectos\Nolte\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\luisa\OneDrive\Documentos\Luis Alberto\Proyectos\Nolte\App\AppLenguas\obj\Debug\AppLenguas.pdb
+D:\Luis Alberto\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+D:\Luis Alberto\App\AppLenguas\bin\Debug\AppLenguas.exe
+D:\Luis Alberto\App\AppLenguas\bin\Debug\AppLenguas.pdb
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.csprojAssemblyReference.cache
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.frmEntrada.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.frmLogin.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.frmMemorama.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.exe
+D:\Luis Alberto\App\AppLenguas\obj\Debug\AppLenguas.pdb
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.csproj.AssemblyReference.cache
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.frmEntrada.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.frmLogin.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.frmMemorama.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\Mari Cruz\Desktop\App\AppLenguas\obj\Debug\AppLenguas.pdb
+C:\Users\danie\Music\App\AppLenguas\bin\Debug\AppLenguas.exe.config
+C:\Users\danie\Music\App\AppLenguas\bin\Debug\AppLenguas.exe
+C:\Users\danie\Music\App\AppLenguas\bin\Debug\AppLenguas.pdb
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.csproj.AssemblyReference.cache
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.firstCustomControl1.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.Form1.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.Form2.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.Form3.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.Form4.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.frmEntrada.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.frmLogin.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.frmMemorama.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.mySecondCustmControl.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.myThreeCustomControl.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.Properties.Resources.resources
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.csproj.GenerateResource.cache
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.exe
+C:\Users\danie\Music\App\AppLenguas\obj\Debug\AppLenguas.pdb
